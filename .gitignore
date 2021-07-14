@@ -1,3 +1,12 @@
+#adding config.py file
+config.py
+#google api key
+Google_API_Key.py
+
+#adding additional files
+API_practice.ipynb
+random_numbers.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
